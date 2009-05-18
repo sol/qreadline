@@ -1,0 +1,12 @@
+/Makefile
+
+/examples/Makefile
+
+/examples/simple/Makefile
+/examples/simple/tmp/
+/examples/simple/simple
+
+/qreadline/Makefile
+/qreadline/tmp/
+/qreadline/libqreadline.a
+/qreadline/libqreadline.prl
