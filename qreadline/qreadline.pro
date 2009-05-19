@@ -4,8 +4,8 @@ VERSION = 0.0.0
 
 CONFIG += qt warn_on debug staticlib create_prl
 
-HEADERS += qreadline.h
-SOURCES += qreadline.cpp
+HEADERS += *.h
+SOURCES += *.cpp
 
 MOC_DIR     = tmp
 OBJECTS_DIR = tmp

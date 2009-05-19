@@ -10,3 +10,9 @@
 /qreadline/tmp/
 /qreadline/libqreadline.a
 /qreadline/libqreadline.prl
+
+/doc/html/
+
+tests/testsimpleexample/Makefile
+tests/testsimpleexample/tmp/
+tests/testsimpleexample/testsimpleexample
