@@ -1,0 +1,12 @@
+/** \mainpage QReadLine — A drop-in replacement for QLineEdit
+ *
+ * QReadLine is a one line input widget for
+ * <a href="http://www.qtsoftware.com/">Qt</a>.
+ * It is based on
+ * <a href="http://doc.trolltech.com/4.5/qlineedit.html">QLineEdit</a>
+ * and extends it with emacs-like key bindings. 
+ *
+ * The latest source is available through git:
+ *
+ * \verbatim git clone http://www.wiktory.org/~sol/code/cg1.git/ \endverbatim
+ */
