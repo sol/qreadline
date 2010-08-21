@@ -6,7 +6,7 @@ it with emacs-like key bindings.
 
 The latest source is available through git with:
 
-    git clone http://www.wiktory.org/~sol/code/cg1.git/
+    git clone http://www.wiktory.org/~sol/code/qreadline.git/
 
 API documentation is at:
 
